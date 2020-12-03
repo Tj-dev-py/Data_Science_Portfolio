@@ -14,4 +14,4 @@ This is a project where we're going to analyse posts on hacker news to find out 
 #### Project Overview:
 In this project, we will focus on aggregating values in series's and visualising them, seeing what we can infer from those visusalisations and answer some questions based on what we see.
 
-<img src="https://github.com/Tj-dev-py/Tj_Portfolio/blob/main/images/scatter_matrix.png" width="350" height="300"/>
+![Image](https://github.com/Tj-dev-py/Tj_Portfolio/blob/main/images/scatter_matrix.png)
