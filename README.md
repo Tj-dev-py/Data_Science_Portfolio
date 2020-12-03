@@ -13,5 +13,3 @@ This is a project where we're going to analyse posts on hacker news to find out 
 # [Visualising Earnings Based On College Majors](https://github.com/Tj-dev-py/Data_Science_Repository/blob/main/Visualising%20Earnings%20Based%20On%20College%20Majors.ipynb)
 #### Project Overview:
 In this project, we will focus on aggregating values in series's and visualising them, seeing what we can infer from those visusalisations and answer some questions based on what we see.
-
-![Image](https://github.com/Tj-dev-py/Tj_Portfolio/blob/main/images/scatter_matrix.png)
