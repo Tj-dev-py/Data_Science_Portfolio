@@ -1,5 +1,3 @@
-# Tj_portfolio
-
 Test data science portfolio
 
 # App Data Analysis
