@@ -13,3 +13,8 @@ This is a project where we're going to analyse posts on hacker news to find out 
 # [Visualising Earnings Based On College Majors](https://github.com/Tj-dev-py/Data_Science_Repository/blob/main/Visualising%20Earnings%20Based%20On%20College%20Majors.ipynb)
 #### Project Overview:
 In this project, we will focus on aggregating values in series's and visualising them, seeing what we can infer from those visusalisations and answer some questions based on what we see.
+
+# [Visualizing Gender Gaps in College Degrees](https://github.com/Tj-dev-py/Data_Science_Repository/blob/main/Visualizing%20Gender%20Gaps%20in%20College%20Degrees.ipynb)
+#### Project Overview:
+In this project, we'll visualize the gender gap across college degrees awarded to both men and women. We'll generate line charts to compare across all the degree categories.
+![gender_gaps_image](https://github.com/Tj-dev-py/Data_Science_Repository/blob/main/gender_gaps.png)
