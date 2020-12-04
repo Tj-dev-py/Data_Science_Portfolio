@@ -17,4 +17,4 @@ In this project, we will focus on aggregating values in series's and visualising
 # [Visualizing Gender Gaps in College Degrees](https://github.com/Tj-dev-py/Data_Science_Repository/blob/main/Visualizing%20Gender%20Gaps%20in%20College%20Degrees.ipynb)
 #### Project Overview:
 In this project, we'll visualize the gender gap across college degrees awarded to both men and women. We'll generate line charts to compare across all the degree categories.
-![](https://github.com/Tj-dev-py/Data_Science_Portfolio/blob/main/images/gender_gaps.png)
+![](https://github.com/Tj-dev-py/Data_Science_Portfolio/blob/main/images/gender_gaps.PNG)
